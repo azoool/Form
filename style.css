@@ -1,0 +1,39 @@
+.erreurAge {
+    visibility: hidden;
+}
+
+.erreurIden {
+    visibility: hidden;
+}
+
+.erreurMDP {
+    visibility: hidden;
+}
+
+.erreurMDP2 {
+    visibility: hidden;
+}
+
+.form-horizontal {
+	width: 70%;
+}
+
+#formConnexion {
+	position: absolute;
+	left: 50px;
+	top: 10px;
+    display: inline-block;
+    padding: 15px;
+	border: 1px solid black;
+	border-radius: 5px;
+	box-shadow: 0 4px 7px rgba(0,0,0,.15);
+}
+
+span {
+	color: red;
+	padding: 5px;
+}
+
+#checkbox {
+	padding-bottom: 10px;
+}
